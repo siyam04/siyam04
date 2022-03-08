@@ -1,4 +1,4 @@
-![MetalHead | Tech Enthusiast | Lazy](https://wallpaperaccess.com/full/5079112.jpg)
+![MetalHead | Tech Enthusiast | Lazy](https://www.quotemaster.org/images/ff/ff7b3f9015594b9169fb4cb3698d628f.jpg)
 
 ### Hi there 👋, I'm Siyam
 #### MetalHead | Tech Enthusiast | Lazy
