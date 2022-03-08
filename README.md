@@ -1,11 +1,13 @@
-![MetalHead | Tech Enthusiast | Lazy](https://www.quotemaster.org/images/ff/ff7b3f9015594b9169fb4cb3698d628f.jpg)
+![github-cover](https://user-images.githubusercontent.com/23103980/157313211-cb029fb7-2ca9-415e-b72a-eb40afa7d166.jpg)
 
 ### Hi there 👋, I'm Siyam
-#### MetalHead | Tech Enthusiast | Lazy
+#### Software Engineer
 
 A person who thinks outside the box & likes to communicate with people. I am very passionate about programming & technologies since my university life. I dream to be an expert software engineer with some market knowledge so that I can build professional & useful applications that have business values.
 
 Skills: Python | Django | Django REST Framework | JavaScript | Google AppSheet 
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/siyam04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdullah-al-galib//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Siyam_abdullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/9276545/galib-al-abdullah?tab=profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/protidininfo)  
 
